@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("khaithocode_deploy_webapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbc0eb2801ca6a89c662b6618c86d76ce5d4e42e")]
 [assembly: System.Reflection.AssemblyProductAttribute("khaithocode_deploy_webapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("khaithocode_deploy_webapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

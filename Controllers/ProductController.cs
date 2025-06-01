@@ -22,6 +22,11 @@ namespace khaithocode_deploy_webapi.Controllers
         {
             return Ok(_context.Products.ToList());
         }
+        [HttpGet("getbyid/{id}")]
+        public async Task<ActionResult> GetAll([FromRoute] int id)
+        {
+            return Ok(_context.Products.SingleOrDefault(n=>n.Id == id));
+        }
 
        
        

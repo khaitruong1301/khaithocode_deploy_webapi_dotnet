@@ -161,3 +161,4 @@
 /Volumes/Product/Youtube/web_api_khaithocode/khaithocode_deploy_webapi/bin/Debug/net9.0/out/khaithocode_deploy_webapi.deps.json
 /Volumes/Product/Youtube/web_api_khaithocode/khaithocode_deploy_webapi/bin/Debug/net9.0/out/khaithocode_deploy_webapi.runtimeconfig.json
 /Volumes/Product/Youtube/web_api_khaithocode/khaithocode_deploy_webapi/bin/Debug/net9.0/out/khaithocode_deploy_webapi.staticwebassets.endpoints.json
+/Volumes/Product/Youtube/web_api_khaithocode/khaithocode_deploy_webapi/obj/Debug/net9.0/khaithocode_deploy_webapi.sourcelink.json
