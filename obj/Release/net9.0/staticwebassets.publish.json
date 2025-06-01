@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BemxWJADPW1pjloobSFGFcrGuXo2D1JC7WDe1mir8cs=",
+  "Source": "khaithocode_deploy_webapi",
+  "BasePath": "_content/khaithocode_deploy_webapi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

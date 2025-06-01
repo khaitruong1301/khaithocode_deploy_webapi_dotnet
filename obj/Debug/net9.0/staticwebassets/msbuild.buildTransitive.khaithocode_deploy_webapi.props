@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/khaithocode_deploy_webapi.props" />
+</Project>

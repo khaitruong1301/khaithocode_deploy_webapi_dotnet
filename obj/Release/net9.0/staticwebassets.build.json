@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "paQsElu0+jOLNzdEW+2tVOlvzJumJRlztD6Ug/rsorc=",
+  "Source": "khaithocode_deploy_webapi",
+  "BasePath": "_content/khaithocode_deploy_webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

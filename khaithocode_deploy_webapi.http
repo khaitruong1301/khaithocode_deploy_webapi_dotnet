@@ -1,0 +1,6 @@
+@khaithocode_deploy_webapi_HostAddress = http://localhost:5218
+
+GET {{khaithocode_deploy_webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
